@@ -1,0 +1,57 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+main {
+  background: #f0e4e2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.Developer {
+  background: #cc8383;
+  border-radius: 12px;
+  width: 400px;
+  padding: 20px;
+}
+.Developer .Developer-header {
+  text-align: center;
+  margin-bottom: 15px;
+}
+.Developer .Developer-header .name {
+  color: black;
+  margin: 0;
+}
+.Developer .Developer-header .role {
+  color: black;
+  font-size: 15px;
+}
+
+.Developer-body {
+  color: rgb(40, 28, 40);
+  font-size: 15px;
+  line-height: 1.5;
+}
+.Developer-body .skills {
+  margin-top: 10px;
+}
+.Developer-body .skills .skill {
+  background: #579bcc;
+  color: rgb(36, 34, 34);
+  margin: 3px;
+  display: inline-block;
+  font-size: 13px;
+}
+
+.content h1 {
+  color: #bb1313;
+}
+.content p {
+  color: #bb1313;
+}
+.content .link {
+  color: red;
+}/*# sourceMappingURL=main.css.map */
